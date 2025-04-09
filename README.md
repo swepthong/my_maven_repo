@@ -5,3 +5,4 @@
 
     implementation 'com.github.swepthong:timo-parser:1.0.0'
     implementation 'com.github.swepthong:test002:1.0.0'
+    implementation 'com.spruceid:didkit:0.2.2'
